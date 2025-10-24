@@ -1,5 +1,5 @@
 # My Excel Data Analytics Projects  
-Data Nerds! This repo contains all the Excel files needed to follow ny Luke Barousse.  
+Data Nerds! This repo contains all the Excel files needed to follow along Luke Barousse free course: [Excel for Data Analytics](https://lukebarousse.com/excel)  
 
 ## Salary Dashboard  
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.  
